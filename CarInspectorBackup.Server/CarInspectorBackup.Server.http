@@ -1,0 +1,6 @@
+@CarInspectorBackup.Server_HostAddress = http://localhost:5084
+
+GET {{CarInspectorBackup.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
